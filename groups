@@ -1,3 +1,6 @@
-# UUID                                  	Group Name
-#
+# UUID Group Name
+global:Registered-Users	Registered Users
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Service Users
 05a678d3d4a168e149d5e8a0063bbd1b1c5526da	Administrators
+7415a6edcd2a783f4513ab0bc3778cae497c94e3	redhat-openstack-core
+global:Anonymous-Users	Anonymous Users
